@@ -2,8 +2,9 @@
 
 **A forward-looking, risk-adjusted siting framework for hyperscale data centers across five U.S. markets.**
 
-> *INDENG 290 — Energy Analytics, UC Berkeley · Spring 2026*
-> *Yijun Gu · Jasmine Chen · David Zhao · Ruixin Wang*
+> *INDENG 290 LEC 005— Energy Analytics, UC Berkeley · Spring 2026*
+>
+> *Yijun Gu · Ruixin Wang · Jasmine Chen · David Zhao*
 
 ---
 
@@ -160,7 +161,7 @@ This project uses public data from the following sources. All data files are inc
 
 ## Acknowledgments
 
-Course staff: Prof. Todd Strauss (INDENG 290, UC Berkeley) for substantive feedback on the project proposal. Teammates: Jasmine Chen, David Zhao, Ruixin Wang.
+Course staff: Prof. Todd Strauss (INDENG 290 LEC 005, UC Berkeley) for substantive feedback on the project proposal. Teammates: Ruixin Wang, Jasmine Chen, David Zhao.
 
 ---
 
